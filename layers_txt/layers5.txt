@@ -21,9 +21,9 @@
 							"subdomains": "",
 							"attribution": "",
 							"cocotile": true,
-							"minZoom": 10,
+							"minZoom": 8,
 							"legendUrl": "",
-							"html": ""
+							"html": "<div>この地図の作成に当たっては、国土地理院長の承認を得て、同院発行の基盤地図情報を使用した。（承認番号 平24業使、第312号）</div>"
 						},
 						{
 							"type": "Layer",
@@ -35,9 +35,9 @@
 							"subdomains": "",
 							"attribution": "",
 							"cocotile": true,
-							"minZoom": 10,
+							"minZoom": 8,
 							"legendUrl": "",
-							"html": ""
+							"html": "<div>この地図の作成に当たっては、国土地理院長の承認を得て、同院発行の基盤地図情報を使用した。（承認番号 平24業使、第312号）</div>"
 						}
 					]
 				},
@@ -57,7 +57,7 @@
 							"subdomains": "",
 							"attribution": "",
 							"cocotile": true,
-							"minZoom": 10,
+							"minZoom": 8,
 							"legendUrl": "",
 							"html": ""
 						},
@@ -71,7 +71,7 @@
 							"subdomains": "",
 							"attribution": "",
 							"cocotile": true,
-							"minZoom": 10,
+							"minZoom": 1,
 							"legendUrl": "",
 							"html": ""
 						}
